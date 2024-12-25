@@ -76,7 +76,7 @@ a:hover {
 	display: block;
 	font-weight: 900;
 	font-size: 15px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	letter-spacing: 0.4em;
 	padding: 0.1em 0.6em 0.1em;
 	background-color: #400e16; 
